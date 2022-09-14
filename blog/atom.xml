@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.spoilsofeternity.com/blog</id>
+    <title>Spoils of Eternity Blog</title>
+    <updated>2022-09-14T05:17:49.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.spoilsofeternity.com/blog"/>
+    <subtitle>Spoils of Eternity Blog</subtitle>
+    <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[September Dev Blog]]></title>
+        <id>september-dev-blog</id>
+        <link href="https://www.spoilsofeternity.com/blog/september-dev-blog"/>
+        <updated>2022-09-14T05:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Details of work that was done during this time period]]></summary>
+        <content type="html"><![CDATA[<p>Details of work that was done during this time period</p>]]></content>
+        <author>
+            <name>Ben Hoffman</name>
+            <uri>https://github.com/henboffman</uri>
+        </author>
+        <category label="update" term="update"/>
+        <category label="devblog" term="devblog"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://www.spoilsofeternity.com/blog/welcome"/>
+        <updated>2022-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Development of Spoils of Eternity began in August 2022]]></summary>
+        <content type="html"><![CDATA[<p>Development of Spoils of Eternity began in August 2022</p>]]></content>
+        <author>
+            <name>Ben Hoffman</name>
+            <uri>https://github.com/henboffman</uri>
+        </author>
+        <category label="initial" term="initial"/>
+    </entry>
+</feed>
