@@ -4,17 +4,27 @@
         <title>Spoils of Eternity Blog</title>
         <link>https://www.spoilsofeternity.com/blog</link>
         <description>Spoils of Eternity Blog</description>
-        <lastBuildDate>Wed, 14 Sep 2022 05:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Development Backlog Blog]]></title>
+            <link>https://www.spoilsofeternity.com/blog/devlopment-backlog-blog</link>
+            <guid>devlopment-backlog-blog</guid>
+            <pubDate>Sun, 18 Sep 2022 05:32:02 GMT</pubDate>
+            <description><![CDATA[Ever-growing backlog of development items]]></description>
+            <content:encoded><![CDATA[<p>Ever-growing backlog of development items</p>]]></content:encoded>
+            <category>update</category>
+            <category>devblog</category>
+        </item>
         <item>
             <title><![CDATA[September Dev Blog]]></title>
             <link>https://www.spoilsofeternity.com/blog/september-dev-blog</link>
             <guid>september-dev-blog</guid>
             <pubDate>Wed, 14 Sep 2022 05:17:49 GMT</pubDate>
-            <description><![CDATA[Details of work that was done during this time period]]></description>
-            <content:encoded><![CDATA[<p>Details of work that was done during this time period</p>]]></content:encoded>
+            <description><![CDATA[Details of work that was done during this time period, and a running to-do list]]></description>
+            <content:encoded><![CDATA[<p>Details of work that was done during this time period, and a running to-do list</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="month-goals">Month Goals<a class="hash-link" href="#month-goals" title="Direct link to heading">​</a></h2><ol><li>Generate promotional content for social media</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="september-backlog">September Backlog<a class="hash-link" href="#september-backlog" title="Direct link to heading">​</a></h2><ol><li>Waypoint pagination to select levels &gt;  100</li><li>Add character models for the different classes</li><li>Build additional skills for first class (barbarian)</li></ol>]]></content:encoded>
             <category>update</category>
             <category>devblog</category>
         </item>

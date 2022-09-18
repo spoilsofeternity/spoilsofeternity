@@ -2,18 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/blog</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2022-09-14T05:17:49.000Z</updated>
+    <updated>2022-09-18T05:32:02.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/blog"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Development Backlog Blog]]></title>
+        <id>devlopment-backlog-blog</id>
+        <link href="https://www.spoilsofeternity.com/blog/devlopment-backlog-blog"/>
+        <updated>2022-09-18T05:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Ever-growing backlog of development items]]></summary>
+        <content type="html"><![CDATA[<p>Ever-growing backlog of development items</p>]]></content>
+        <author>
+            <name>Ben Hoffman</name>
+            <uri>https://github.com/henboffman</uri>
+        </author>
+        <category label="update" term="update"/>
+        <category label="devblog" term="devblog"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[September Dev Blog]]></title>
         <id>september-dev-blog</id>
         <link href="https://www.spoilsofeternity.com/blog/september-dev-blog"/>
         <updated>2022-09-14T05:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Details of work that was done during this time period]]></summary>
-        <content type="html"><![CDATA[<p>Details of work that was done during this time period</p>]]></content>
+        <summary type="html"><![CDATA[Details of work that was done during this time period, and a running to-do list]]></summary>
+        <content type="html"><![CDATA[<p>Details of work that was done during this time period, and a running to-do list</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="month-goals">Month Goals<a class="hash-link" href="#month-goals" title="Direct link to heading">​</a></h2><ol><li>Generate promotional content for social media</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="september-backlog">September Backlog<a class="hash-link" href="#september-backlog" title="Direct link to heading">​</a></h2><ol><li>Waypoint pagination to select levels &gt;  100</li><li>Add character models for the different classes</li><li>Build additional skills for first class (barbarian)</li></ol>]]></content>
         <author>
             <name>Ben Hoffman</name>
             <uri>https://github.com/henboffman</uri>
