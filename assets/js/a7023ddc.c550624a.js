@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspoils_of_eternity=self.webpackChunkspoils_of_eternity||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"update","permalink":"/blog/tags/update","count":2},{"label":"devblog","permalink":"/blog/tags/devblog","count":2},{"label":"initial","permalink":"/blog/tags/initial","count":1}]')}}]);
