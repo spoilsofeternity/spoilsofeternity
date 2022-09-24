@@ -4,30 +4,10 @@
         <title>Spoils of Eternity Blog</title>
         <link>https://www.spoilsofeternity.com/blog</link>
         <description>Spoils of Eternity Blog</description>
-        <lastBuildDate>Fri, 23 Sep 2022 05:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[v0.0.4]]></title>
-            <link>https://www.spoilsofeternity.com/blog/v0.0.4</link>
-            <guid>v0.0.4</guid>
-            <pubDate>Fri, 23 Sep 2022 05:01:05 GMT</pubDate>
-            <description><![CDATA[- Removed player stat modifiers placeholder icons]]></description>
-            <content:encoded><![CDATA[<ul><li>Removed player stat modifiers placeholder icons</li><li>Added functionality to fourth skill slot (attack speed)</li><li>Added skill cooldown and cooldown animation to second skill slot (vortex)</li><li>Added sound on unit damage</li><li>Updated damage popups to correct inconsistent direction</li><li>Added in-game link to documentation</li><li>Updated health orbs to restore percent of maximum health</li><li>Added logo to main menu</li></ul>]]></content:encoded>
-            <category>Update</category>
-            <category>DevBlog</category>
-        </item>
-        <item>
-            <title><![CDATA[v0.0.5]]></title>
-            <link>https://www.spoilsofeternity.com/blog/v0.0.5</link>
-            <guid>v0.0.5</guid>
-            <pubDate>Fri, 23 Sep 2022 05:01:05 GMT</pubDate>
-            <description><![CDATA[- Added walking animation to wandering state for units]]></description>
-            <content:encoded><![CDATA[<ul><li>Added walking animation to wandering state for units</li><li>Reduced distance which demon unit begins attacking player from 4 to 2</li></ul>]]></content:encoded>
-            <category>Update</category>
-            <category>DevBlog</category>
-        </item>
         <item>
             <title><![CDATA[About Spoils of Eternity]]></title>
             <link>https://www.spoilsofeternity.com/blog/about</link>
@@ -35,7 +15,7 @@
             <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Development of Spoils of Eternity began in August 2022]]></description>
             <content:encoded><![CDATA[<p>Development of Spoils of Eternity began in August 2022</p>]]></content:encoded>
-            <category>initial</category>
+            <category>About</category>
         </item>
     </channel>
 </rss>

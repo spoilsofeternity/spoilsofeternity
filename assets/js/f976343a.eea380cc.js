@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspoils_of_eternity=self.webpackChunkspoils_of_eternity||[]).push([[3241],{7585:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"release"}')}}]);

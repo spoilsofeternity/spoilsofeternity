@@ -2,31 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/blog</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2022-09-23T05:01:05.000Z</updated>
+    <updated>2022-09-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/blog"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[v0.0.4]]></title>
-        <id>v0.0.4</id>
-        <link href="https://www.spoilsofeternity.com/blog/v0.0.4"/>
-        <updated>2022-09-23T05:01:05.000Z</updated>
-        <summary type="html"><![CDATA[- Removed player stat modifiers placeholder icons]]></summary>
-        <content type="html"><![CDATA[<ul><li>Removed player stat modifiers placeholder icons</li><li>Added functionality to fourth skill slot (attack speed)</li><li>Added skill cooldown and cooldown animation to second skill slot (vortex)</li><li>Added sound on unit damage</li><li>Updated damage popups to correct inconsistent direction</li><li>Added in-game link to documentation</li><li>Updated health orbs to restore percent of maximum health</li><li>Added logo to main menu</li></ul>]]></content>
-        <category label="Update" term="Update"/>
-        <category label="DevBlog" term="DevBlog"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v0.0.5]]></title>
-        <id>v0.0.5</id>
-        <link href="https://www.spoilsofeternity.com/blog/v0.0.5"/>
-        <updated>2022-09-23T05:01:05.000Z</updated>
-        <summary type="html"><![CDATA[- Added walking animation to wandering state for units]]></summary>
-        <content type="html"><![CDATA[<ul><li>Added walking animation to wandering state for units</li><li>Reduced distance which demon unit begins attacking player from 4 to 2</li></ul>]]></content>
-        <category label="Update" term="Update"/>
-        <category label="DevBlog" term="DevBlog"/>
-    </entry>
     <entry>
         <title type="html"><![CDATA[About Spoils of Eternity]]></title>
         <id>about</id>
@@ -34,10 +14,6 @@
         <updated>2022-09-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Development of Spoils of Eternity began in August 2022]]></summary>
         <content type="html"><![CDATA[<p>Development of Spoils of Eternity began in August 2022</p>]]></content>
-        <author>
-            <name>Ben</name>
-            <uri>https://github.com/henboffman</uri>
-        </author>
-        <category label="initial" term="initial"/>
+        <category label="About" term="About"/>
     </entry>
 </feed>

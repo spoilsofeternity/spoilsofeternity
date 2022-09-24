@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspoils_of_eternity=self.webpackChunkspoils_of_eternity||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"v0.0.4","permalink":"/blog/v0.0.4"},{"title":"v0.0.5","permalink":"/blog/v0.0.5"},{"title":"About Spoils of Eternity","permalink":"/blog/about"}]}')}}]);
