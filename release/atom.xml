@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/release</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2022-09-23T05:01:05.000Z</updated>
+    <updated>2022-09-28T00:38:26.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/release"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v0.0.6]]></title>
+        <id>v0.0.6</id>
+        <link href="https://www.spoilsofeternity.com/release/v0.0.6"/>
+        <updated>2022-09-28T00:38:26.000Z</updated>
+        <summary type="html"><![CDATA[- Skill tree is populated with values]]></summary>
+        <content type="html"><![CDATA[<ul><li>Skill tree is populated with values</li><li>Skills can be unlocked at corresponding levels</li><li>Skills can be assigned to player skill slots</li><li>Data is preserved between sessions</li><li>Actual skill functionality is not yet implemented. Goal of this build was to develop the generic interface functionality and data persistence logic. Skill animations, stats, and cooldowns will be focus of <code>v0.0.7</code></li></ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="Skills" term="Skills"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v0.0.4]]></title>
         <id>v0.0.4</id>
@@ -14,8 +24,8 @@
         <updated>2022-09-23T05:01:05.000Z</updated>
         <summary type="html"><![CDATA[- Removed player stat modifiers placeholder icons]]></summary>
         <content type="html"><![CDATA[<ul><li>Removed player stat modifiers placeholder icons</li><li>Added functionality to fourth skill slot (attack speed)</li><li>Added skill cooldown and cooldown animation to second skill slot (vortex)</li><li>Added sound on unit damage</li><li>Updated damage popups to correct inconsistent direction</li><li>Added in-game link to documentation</li><li>Updated health orbs to restore percent of maximum health</li><li>Added logo to main menu</li></ul>]]></content>
-        <category label="Update" term="Update"/>
-        <category label="DevBlog" term="DevBlog"/>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="Skills" term="Skills"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[v0.0.5]]></title>
@@ -23,8 +33,7 @@
         <link href="https://www.spoilsofeternity.com/release/v0.0.5"/>
         <updated>2022-09-23T05:01:05.000Z</updated>
         <summary type="html"><![CDATA[- Added walking animation to wandering state for units]]></summary>
-        <content type="html"><![CDATA[<ul><li>Added walking animation to wandering state for units</li><li>Reduced distance which demon unit begins attacking player from 4 to 2</li></ul>]]></content>
-        <category label="Update" term="Update"/>
-        <category label="DevBlog" term="DevBlog"/>
+        <content type="html"><![CDATA[<ul><li>Added walking animation to wandering state for units</li><li>Added skill tree for Barbarian class</li><li>Reduced distance which demon unit begins attacking player from 4 to 2</li><li>Removed debug menu options</li></ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
     </entry>
 </feed>

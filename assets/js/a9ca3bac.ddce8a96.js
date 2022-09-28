@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspoils_of_eternity=self.webpackChunkspoils_of_eternity||[]).push([[9518],{8141:e=>{e.exports=JSON.parse('{"label":"Update","permalink":"/release/tags/update","allTagsPath":"/release/tags","count":2}')}}]);

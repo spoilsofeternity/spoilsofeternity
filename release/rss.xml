@@ -4,10 +4,20 @@
         <title>Spoils of Eternity Blog</title>
         <link>https://www.spoilsofeternity.com/release</link>
         <description>Spoils of Eternity Blog</description>
-        <lastBuildDate>Fri, 23 Sep 2022 05:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 00:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v0.0.6]]></title>
+            <link>https://www.spoilsofeternity.com/release/v0.0.6</link>
+            <guid>v0.0.6</guid>
+            <pubDate>Wed, 28 Sep 2022 00:38:26 GMT</pubDate>
+            <description><![CDATA[- Skill tree is populated with values]]></description>
+            <content:encoded><![CDATA[<ul><li>Skill tree is populated with values</li><li>Skills can be unlocked at corresponding levels</li><li>Skills can be assigned to player skill slots</li><li>Data is preserved between sessions</li><li>Actual skill functionality is not yet implemented. Goal of this build was to develop the generic interface functionality and data persistence logic. Skill animations, stats, and cooldowns will be focus of <code>v0.0.7</code></li></ul>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>Skills</category>
+        </item>
         <item>
             <title><![CDATA[v0.0.4]]></title>
             <link>https://www.spoilsofeternity.com/release/v0.0.4</link>
@@ -15,8 +25,8 @@
             <pubDate>Fri, 23 Sep 2022 05:01:05 GMT</pubDate>
             <description><![CDATA[- Removed player stat modifiers placeholder icons]]></description>
             <content:encoded><![CDATA[<ul><li>Removed player stat modifiers placeholder icons</li><li>Added functionality to fourth skill slot (attack speed)</li><li>Added skill cooldown and cooldown animation to second skill slot (vortex)</li><li>Added sound on unit damage</li><li>Updated damage popups to correct inconsistent direction</li><li>Added in-game link to documentation</li><li>Updated health orbs to restore percent of maximum health</li><li>Added logo to main menu</li></ul>]]></content:encoded>
-            <category>Update</category>
-            <category>DevBlog</category>
+            <category>Release Notes</category>
+            <category>Skills</category>
         </item>
         <item>
             <title><![CDATA[v0.0.5]]></title>
@@ -24,9 +34,8 @@
             <guid>v0.0.5</guid>
             <pubDate>Fri, 23 Sep 2022 05:01:05 GMT</pubDate>
             <description><![CDATA[- Added walking animation to wandering state for units]]></description>
-            <content:encoded><![CDATA[<ul><li>Added walking animation to wandering state for units</li><li>Reduced distance which demon unit begins attacking player from 4 to 2</li></ul>]]></content:encoded>
-            <category>Update</category>
-            <category>DevBlog</category>
+            <content:encoded><![CDATA[<ul><li>Added walking animation to wandering state for units</li><li>Added skill tree for Barbarian class</li><li>Reduced distance which demon unit begins attacking player from 4 to 2</li><li>Removed debug menu options</li></ul>]]></content:encoded>
+            <category>Release Notes</category>
         </item>
     </channel>
 </rss>

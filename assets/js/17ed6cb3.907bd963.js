@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspoils_of_eternity=self.webpackChunkspoils_of_eternity||[]).push([[8961],{5732:e=>{e.exports=JSON.parse('{"label":"Skills","permalink":"/release/tags/skills","allTagsPath":"/release/tags","count":2}')}}]);
