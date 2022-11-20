@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/release</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2022-09-28T00:38:26.000Z</updated>
+    <updated>2022-11-20T22:47:31.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/release"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v0.0.7]]></title>
+        <id>v0.0.7</id>
+        <link href="https://www.spoilsofeternity.com/release/v0.0.7"/>
+        <updated>2022-11-20T22:47:31.000Z</updated>
+        <summary type="html"><![CDATA[- Updated skill tree/selection interface (no longer displayed as hierarchical tree). Functionality is incomplete]]></summary>
+        <content type="html"><![CDATA[<ul><li>Updated skill tree/selection interface (no longer displayed as hierarchical tree). Functionality is incomplete</li><li>Updated skill icons</li><li>Removed unused pause menu elements</li><li>Added haptic feedback to pause menu selections</li><li>Added haptic feedback to skill use. Still tweaking intensity based on each skill/event</li><li>Corrected timing of hit registration to improve fluidity of attack animation, damage animation, and damage text popup</li><li>Updated loading screen in preparation for different acts. Plan is to shift away from linear game level progression</li></ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="Skills" term="Skills"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v0.0.6]]></title>
         <id>v0.0.6</id>

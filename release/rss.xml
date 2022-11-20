@@ -4,10 +4,20 @@
         <title>Spoils of Eternity Blog</title>
         <link>https://www.spoilsofeternity.com/release</link>
         <description>Spoils of Eternity Blog</description>
-        <lastBuildDate>Wed, 28 Sep 2022 00:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 22:47:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v0.0.7]]></title>
+            <link>https://www.spoilsofeternity.com/release/v0.0.7</link>
+            <guid>v0.0.7</guid>
+            <pubDate>Sun, 20 Nov 2022 22:47:31 GMT</pubDate>
+            <description><![CDATA[- Updated skill tree/selection interface (no longer displayed as hierarchical tree). Functionality is incomplete]]></description>
+            <content:encoded><![CDATA[<ul><li>Updated skill tree/selection interface (no longer displayed as hierarchical tree). Functionality is incomplete</li><li>Updated skill icons</li><li>Removed unused pause menu elements</li><li>Added haptic feedback to pause menu selections</li><li>Added haptic feedback to skill use. Still tweaking intensity based on each skill/event</li><li>Corrected timing of hit registration to improve fluidity of attack animation, damage animation, and damage text popup</li><li>Updated loading screen in preparation for different acts. Plan is to shift away from linear game level progression</li></ul>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>Skills</category>
+        </item>
         <item>
             <title><![CDATA[v0.0.6]]></title>
             <link>https://www.spoilsofeternity.com/release/v0.0.6</link>

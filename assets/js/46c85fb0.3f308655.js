@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkspoils_of_eternity=self.webpackChunkspoils_of_eternity||[]).push([[6884],{9204:e=>{e.exports=JSON.parse('{"label":"skill tree","permalink":"/blog/tags/skill-tree","allTagsPath":"/blog/tags","count":1}')}}]);

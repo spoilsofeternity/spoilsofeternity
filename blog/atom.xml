@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/blog</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2022-09-14T00:00:00.000Z</updated>
+    <updated>2022-11-20T22:38:50.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/blog"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Character Class and Skill Tree]]></title>
+        <id>roadmap</id>
+        <link href="https://www.spoilsofeternity.com/blog/roadmap"/>
+        <updated>2022-11-20T22:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Since I had already attempted to create multiple character classes, there will be some effort to remove content in the name of progress.]]></summary>
+        <content type="html"><![CDATA[<p>Since I had already attempted to create multiple character classes, there will be some effort to remove content in the name of progress. </p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Remove existing classes as selectable option on character create. Only keep the barbarian class</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui">UI<a class="hash-link" href="#ui" title="Direct link to heading">​</a></h2><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update horizontal portrait for character creation screen. In fact, probably redo that screen altogether</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update vertical portrait for character select screen</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update avatar displayed in inventory/equipment screen to something less serious</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update the in-game sprite to look something like a barbarian</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="skill-tree">Skill Tree<a class="hash-link" href="#skill-tree" title="Direct link to heading">​</a></h2><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update the background to something less distracting. Maybe use solid color/gradient?</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update skill sprites to match new cartoony aesthetic. </li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Redo the skill popup/dialog, and all associated buttons.</li></ul>]]></content>
+        <category label="roadmap" term="roadmap"/>
+        <category label="skill tree" term="skill tree"/>
+        <category label="class" term="class"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November Update]]></title>
+        <id>November Update</id>
+        <link href="https://www.spoilsofeternity.com/blog/November Update"/>
+        <updated>2022-11-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It seems that the direction of the game for v1 will be a single set of skills, one character class, and a number of passive skills that can modify how the game is played, which somewhat helps circumvent the need for multiple character classes. But, the skill tree needs to be usable, and not overly complicated, as the goal is primarily accessibility.]]></summary>
+        <content type="html"><![CDATA[<p>It seems that the direction of the game for v1 will be a single set of skills, one character class, and a number of passive skills that can modify how the game is played, which somewhat helps circumvent the need for multiple character classes. But, the skill tree needs to be usable, and not overly complicated, as the goal is primarily accessibility. </p><ol><li>Add passive skill tree</li><li>Capture and track unlocked passives</li></ol>]]></content>
+        <category label="update" term="update"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Roadmap]]></title>
+        <id>roadmap</id>
+        <link href="https://www.spoilsofeternity.com/blog/roadmap"/>
+        <updated>2022-11-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I started working on creating audio for the game and got sidetracked for a majority of October making an album of music to use as background focus music while programming. Time well spent? Not sure. But I need to pick back up on this, which will be a challenge, because I stopped in the middle of implementing skill functionality, genericizing some functionality and data structure into scriptable objects. Since that will be tough to jump back into, I need to create some low-hanging fruit items to get the momentum going. So, why not a roadmap?]]></summary>
+        <content type="html"><![CDATA[<p>Since I had already attempted to create multiple character classes, there will be some effort to remove content in the name of progress. </p><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Remove existing classes as selectable option on character create. Only keep the barbarian class</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="ui">UI<a class="hash-link" href="#ui" title="Direct link to heading">​</a></h2><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update horizontal portrait for character creation screen. In fact, probably redo that screen altogether</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update vertical portrait for character select screen</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update avatar displayed in inventory/equipment screen to something less serious</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update the in-game sprite to look something like a barbarian</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="skill-tree">Skill Tree<a class="hash-link" href="#skill-tree" title="Direct link to heading">​</a></h2><ul class="contains-task-list containsTaskList_mC6p"><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update the background to something less distracting. Maybe use solid color/gradient?</li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update skill sprites to match new cartoony aesthetic. </li><li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Redo the skill popup/dialog, and all associated buttons.</li></ul>]]></content>
+        <category label="roadmap" term="roadmap"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[About Spoils of Eternity]]></title>
         <id>about</id>
