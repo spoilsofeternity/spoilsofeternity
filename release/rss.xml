@@ -4,10 +4,30 @@
         <title>Spoils of Eternity Blog</title>
         <link>https://www.spoilsofeternity.com/release</link>
         <description>Spoils of Eternity Blog</description>
-        <lastBuildDate>Sun, 20 Nov 2022 22:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 05:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v0.0.9]]></title>
+            <link>https://www.spoilsofeternity.com/release/v0.0.9</link>
+            <guid>v0.0.9</guid>
+            <pubDate>Sun, 19 Feb 2023 05:40:44 GMT</pubDate>
+            <description><![CDATA[- Added speed toggle to menu]]></description>
+            <content:encoded><![CDATA[<ul><li>Added speed toggle to menu</li><li>Updated player equipment menu to new interface</li><li>New item icon placeholders included</li></ul>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>Interface</category>
+        </item>
+        <item>
+            <title><![CDATA[v0.0.8]]></title>
+            <link>https://www.spoilsofeternity.com/release/v0.0.8</link>
+            <guid>v0.0.8</guid>
+            <pubDate>Sat, 18 Feb 2023 02:30:15 GMT</pubDate>
+            <description><![CDATA[- Updated pause menu]]></description>
+            <content:encoded><![CDATA[<ul><li>Updated pause menu</li><li>Updated debug console</li><li>Updated application icon</li><li>Skills interface initial prototype</li><li>Updated layout of skill buttons and potion to improve experience when playing in portrait orientation</li><li>Removed a number of packages from the application, most of which were unnecessary, but one did include item sprites. All item sprites are currently appearing as a white box</li></ul>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>Interface</category>
+        </item>
         <item>
             <title><![CDATA[v0.0.7]]></title>
             <link>https://www.spoilsofeternity.com/release/v0.0.7</link>

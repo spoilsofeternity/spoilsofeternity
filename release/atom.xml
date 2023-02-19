@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/release</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2022-11-20T22:47:31.000Z</updated>
+    <updated>2023-02-19T05:40:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/release"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v0.0.9]]></title>
+        <id>v0.0.9</id>
+        <link href="https://www.spoilsofeternity.com/release/v0.0.9"/>
+        <updated>2023-02-19T05:40:44.000Z</updated>
+        <summary type="html"><![CDATA[- Added speed toggle to menu]]></summary>
+        <content type="html"><![CDATA[<ul><li>Added speed toggle to menu</li><li>Updated player equipment menu to new interface</li><li>New item icon placeholders included</li></ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="Interface" term="Interface"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.0.8]]></title>
+        <id>v0.0.8</id>
+        <link href="https://www.spoilsofeternity.com/release/v0.0.8"/>
+        <updated>2023-02-18T02:30:15.000Z</updated>
+        <summary type="html"><![CDATA[- Updated pause menu]]></summary>
+        <content type="html"><![CDATA[<ul><li>Updated pause menu</li><li>Updated debug console</li><li>Updated application icon</li><li>Skills interface initial prototype</li><li>Updated layout of skill buttons and potion to improve experience when playing in portrait orientation</li><li>Removed a number of packages from the application, most of which were unnecessary, but one did include item sprites. All item sprites are currently appearing as a white box</li></ul>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="Interface" term="Interface"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v0.0.7]]></title>
         <id>v0.0.7</id>
