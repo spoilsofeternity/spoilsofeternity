@@ -4,7 +4,7 @@
         <title>Spoils of Eternity Blog</title>
         <link>https://www.spoilsofeternity.com/release</link>
         <description>Spoils of Eternity Blog</description>
-        <lastBuildDate>Thu, 23 Feb 2023 04:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 04:56:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[v0.0.91]]></title>
             <link>https://www.spoilsofeternity.com/release/v0.0.91</link>
             <guid>v0.0.91</guid>
-            <pubDate>Thu, 23 Feb 2023 04:52:00 GMT</pubDate>
+            <pubDate>Thu, 23 Feb 2023 04:56:14 GMT</pubDate>
             <description><![CDATA[Status]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="status">Status<a class="hash-link" href="#status" title="Direct link to heading">​</a></h2><p><em>Published to TestFlight</em></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ol><li>Added initial manual movement functionality</li><li>Updated some skill icons to match new aesthetic</li><li>Updated joystick UI</li></ol>]]></content:encoded>
             <category>Release Notes</category>
