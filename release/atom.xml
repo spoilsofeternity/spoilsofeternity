@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/release</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2023-02-19T05:40:44.000Z</updated>
+    <updated>2023-02-23T04:52:00.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/release"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v0.0.91]]></title>
+        <id>v0.0.91</id>
+        <link href="https://www.spoilsofeternity.com/release/v0.0.91"/>
+        <updated>2023-02-23T04:52:00.027Z</updated>
+        <summary type="html"><![CDATA[Status]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="status">Status<a class="hash-link" href="#status" title="Direct link to heading">​</a></h2><p><em>Published to TestFlight</em></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ol><li>Added initial manual movement functionality</li><li>Updated some skill icons to match new aesthetic</li><li>Updated joystick UI</li></ol>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="Interface" term="Interface"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v0.0.9]]></title>
         <id>v0.0.9</id>
