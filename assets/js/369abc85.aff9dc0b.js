@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkspoils_of_eternity=self.webpackChunkspoils_of_eternity||[]).push([[4493],{3469:e=>{e.exports=JSON.parse('{"label":"Interface","permalink":"/release/tags/interface","allTagsPath":"/release/tags","count":3}')}}]);

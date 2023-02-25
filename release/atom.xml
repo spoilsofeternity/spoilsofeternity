@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.spoilsofeternity.com/release</id>
     <title>Spoils of Eternity Blog</title>
-    <updated>2023-02-23T04:56:14.000Z</updated>
+    <updated>2023-02-25T02:58:32.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.spoilsofeternity.com/release"/>
     <subtitle>Spoils of Eternity Blog</subtitle>
     <icon>https://www.spoilsofeternity.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v0.0.92]]></title>
+        <id>v0.0.92</id>
+        <link href="https://www.spoilsofeternity.com/release/v0.0.92"/>
+        <updated>2023-02-25T02:58:32.448Z</updated>
+        <summary type="html"><![CDATA[Status]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="status">Status<a class="hash-link" href="#status" title="Direct link to heading">​</a></h2><p><em>In Development</em></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ol><li>Updated health bar position on screen to accomodate joystick position</li><li>Updated health bar color to slight red to indicate connection to health</li><li>Updated character selection and creation menu</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a class="hash-link" href="#new-features" title="Direct link to heading">​</a></h2><ol><li>Arrow points towards next target, and turns green and points to waypoint if no remaining targets in level.</li><li>Arrow scales to indicate distance to next target</li><li>Added settings menu</li><li>Added ability to clear local data from device</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bugfixes">Bugfixes<a class="hash-link" href="#bugfixes" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="other">Other<a class="hash-link" href="#other" title="Direct link to heading">​</a></h2>]]></content>
+        <category label="Release Notes" term="Release Notes"/>
+        <category label="Interface" term="Interface"/>
+        <category label="Movement" term="Movement"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v0.0.91]]></title>
         <id>v0.0.91</id>

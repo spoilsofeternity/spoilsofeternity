@@ -4,10 +4,21 @@
         <title>Spoils of Eternity Blog</title>
         <link>https://www.spoilsofeternity.com/release</link>
         <description>Spoils of Eternity Blog</description>
-        <lastBuildDate>Thu, 23 Feb 2023 04:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 02:58:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v0.0.92]]></title>
+            <link>https://www.spoilsofeternity.com/release/v0.0.92</link>
+            <guid>v0.0.92</guid>
+            <pubDate>Sat, 25 Feb 2023 02:58:32 GMT</pubDate>
+            <description><![CDATA[Status]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="status">Status<a class="hash-link" href="#status" title="Direct link to heading">​</a></h2><p><em>In Development</em></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="changes">Changes<a class="hash-link" href="#changes" title="Direct link to heading">​</a></h2><ol><li>Updated health bar position on screen to accomodate joystick position</li><li>Updated health bar color to slight red to indicate connection to health</li><li>Updated character selection and creation menu</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a class="hash-link" href="#new-features" title="Direct link to heading">​</a></h2><ol><li>Arrow points towards next target, and turns green and points to waypoint if no remaining targets in level.</li><li>Arrow scales to indicate distance to next target</li><li>Added settings menu</li><li>Added ability to clear local data from device</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bugfixes">Bugfixes<a class="hash-link" href="#bugfixes" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="other">Other<a class="hash-link" href="#other" title="Direct link to heading">​</a></h2>]]></content:encoded>
+            <category>Release Notes</category>
+            <category>Interface</category>
+            <category>Movement</category>
+        </item>
         <item>
             <title><![CDATA[v0.0.91]]></title>
             <link>https://www.spoilsofeternity.com/release/v0.0.91</link>
